@@ -12,6 +12,8 @@ icon.filename = logo.png
 
 android.permissions = INTERNET
 android.api = 33
+android.accept_sdk_license = True
+android.ndk = 25b
 android.minapi = 21
 android.archs = arm64-v8a, armeabi-v7a
 
